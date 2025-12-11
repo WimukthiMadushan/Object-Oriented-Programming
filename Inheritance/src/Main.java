@@ -7,6 +7,6 @@ public class Main {
         device1.turnOff();
 
         device2.turnOn();
-        device2.turnOff();  
+        device2.turnOff();
     }
 }
